@@ -5,7 +5,7 @@ AI Enthusiast • Full Stack Developer • CSE Student • Robotics Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Enthusiast;Full+Stack+Developer;Python+Developer;React+Learner;Robotics+Explorer;Always+Building+Cool+Stuff"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Enthusiast;Full+Stack+Developer;Python+Developer;Gamer;Robotics+Explorer;Always+Building+Cool+Stuff"/>
 </p>
 
 ---
