@@ -108,13 +108,12 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdithAnilkumar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithAnilkumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdithAnilkumar&show_icons=true&hide_border=false&border_color=8b5cf6&border_radius=10&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e2e2e2&cache_seconds=1800" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithAnilkumar&layout=compact&hide_border=false&border_color=8b5cf6&border_radius=10&bg_color=0d1117&title_color=a78bfa&text_color=e2e2e2&cache_seconds=1800" height="195"/>
 
-<img src="https://streak-stats.demolab.com/?user=AdithAnilkumar&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=AdithAnilkumar&hide_border=false&border=8b5cf6&border_radius=10&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideNums=e2e2e2&sideLabels=e2e2e2&dates=e2e2e2" width="60%"/>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
