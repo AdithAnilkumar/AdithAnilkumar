@@ -1,13 +1,16 @@
 <div align="center">
 
+<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adith%20Anilkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20Robotics%20Explorer&descAlignY=55&descSize=16" width="100%"/>
 
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Robotics+Explorer+%F0%9F%9A%80;Always+Building+Cool+Stuff+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- Profile Views & Social Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=AdithAnilkumar&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/AdithAnilkumar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adith-anilkumar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fakeWardell/)
@@ -108,8 +111,9 @@ me.say_hi()
 <img src="https://github-readme-stats.vercel.app/api?username=AdithAnilkumar&show_icons=true&hide_border=false&border_color=8b5cf6&border_radius=10&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e2e2e2&cache_seconds=1800" height="195"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithAnilkumar&layout=compact&hide_border=false&border_color=8b5cf6&border_radius=10&bg_color=0d1117&title_color=a78bfa&text_color=e2e2e2&cache_seconds=1800" height="195"/>
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=AdithAnilkumar&hide_border=false&border=8b5cf6&border_radius=10&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideNums=e2e2e2&sideLabels=e2e2e2&dates=e2e2e2" width="60%"/>
 
+</div>
 ---
 
 ## 🏆 GitHub Trophies
@@ -119,7 +123,6 @@ me.say_hi()
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdithAnilkumar&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
 
 ## 🌐 Let's Connect
