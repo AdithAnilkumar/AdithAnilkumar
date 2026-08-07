@@ -45,13 +45,10 @@ me = AdithAnilkumar()
 me.say_hi()
 ```
 
-- 🎓 **Computer Science Engineering Student**
-- 🤖 Passionate about **AI, Robotics & Automation**
-- 💻 Building **Full Stack** applications end-to-end
-- 🧠 Diving deep into **Machine Learning & LLMs**
-- 🛠 Love turning ideas into **real, working products**
-- ⚡ Always curious, always shipping
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/AdithAnilkumar/AdithAnilkumar/main/assets/glass-about.svg" width="480" alt="About me glass card" />
+</div>
 ---
 
 ## 🛠️ Tech Stack
