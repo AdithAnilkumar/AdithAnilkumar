@@ -52,10 +52,6 @@ me.say_hi()
 - 🛠 Love turning ideas into **real, working products**
 - ⚡ Always curious, always shipping
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/AdithAnilkumar/AdithAnilkumar/main/assets/skill-bars.svg" width="480" alt="Animated skill bars" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
