@@ -23,7 +23,9 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=800&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&height=90&lines=%24+whoami;%3E+adith+anilkumar+-+ai+engineer;%3E+building%3A+pixie+ai%2C+deepfake+provenance+tracer;%3E+status%3A+open+to+internships+%E2%9A%A1" alt="Terminal typing intro" />
+</div>
 
 ```python
 class AdithAnilkumar:
@@ -49,6 +51,10 @@ me.say_hi()
 - 🧠 Diving deep into **Machine Learning & LLMs**
 - 🛠 Love turning ideas into **real, working products**
 - ⚡ Always curious, always shipping
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AdithAnilkumar/AdithAnilkumar/main/assets/skill-bars.svg" width="480" alt="Animated skill bars" />
+</div>
 
 ---
 
@@ -96,6 +102,7 @@ me.say_hi()
 
 | 🔥 Project | 📝 Description | 🛠 Stack |
 |:---:|:---|:---:|
+| [**Pixie AI**](https://github.com/mizin050/Pixie_AI) | Jarvis-style AI assistant with voice interaction, real-time search, image generation, gesture control, deep research reports & Telegram integration, all wrapped in a 3D GUI | `Python` `Llama 3.3 70B` `Groq Whisper` `MediaPipe` `Telegram API` |
 | [**IntelliCards**](https://github.com/AdithAnilkumar/IntelliCards) | AI-powered flashcard generator using GPT-4o with Smart 4-Level Document Segmentation, OCR support & adaptive quizzes | `HTML` `GPT-4o` `OCR` |
 | [**Intellicv-ai**](https://github.com/AdithAnilkumar/Intellicv-ai) | AI-powered CV builder and analyzer | `JavaScript` `AI` |
 | [**TODO-LIST**](https://github.com/AdithAnilkumar/TODO-LIST) | Clean, functional task management app | `JavaScript` |
@@ -108,21 +115,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdithAnilkumar&show_icons=true&hide_border=false&border_color=8b5cf6&border_radius=10&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e2e2e2&cache_seconds=1800" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithAnilkumar&layout=compact&hide_border=false&border_color=8b5cf6&border_radius=10&bg_color=0d1117&title_color=a78bfa&text_color=e2e2e2&cache_seconds=1800" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdithAnilkumar&show_icons=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e2e2e2&ring_color=8b5cf6&cache_seconds=1800" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithAnilkumar&layout=compact&hide_border=true&border_radius=10&bg_color=0d1117&title_color=a78bfa&text_color=e2e2e2&cache_seconds=1800" height="195"/>
 
-<img src="https://streak-stats.demolab.com/?user=AdithAnilkumar&hide_border=false&border=8b5cf6&border_radius=10&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideNums=e2e2e2&sideLabels=e2e2e2&dates=e2e2e2" width="60%"/>
-
-</div>
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdithAnilkumar&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com/?user=AdithAnilkumar&hide_border=true&border_radius=10&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideNums=e2e2e2&sideLabels=e2e2e2&dates=e2e2e2" width="60%"/>
 
 </div>
+
 ---
 
 ## 🌐 Let's Connect
