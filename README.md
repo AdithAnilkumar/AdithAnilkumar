@@ -24,7 +24,7 @@
 ## 🙋‍♂️ About Me
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=800&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&height=90&lines=%24+whoami;%3E+adith+anilkumar+-+ai+engineer;%3E+building%3A+pixie+ai%2C+deepfake+provenance+tracer;%3E+status%3A+open+to+internships+%E2%9A%A1" alt="Terminal typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=800&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&height=90&lines=%24+whoami;%3E+adith+anilkumar+-+ai+engineer;%3E+building%3A+pixie+ai%2C+3D+Gaussian+Splatting;%3E+status%3A+open+to+internships" alt="Terminal typing intro" />
 </div>
 
 ```python
