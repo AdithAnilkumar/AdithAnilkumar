@@ -1,0 +1,28 @@
+<svg width="480" height="280" viewBox="0 0 480 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <rect width="480" height="280" rx="16" fill="#0d1117"/>
+
+  <circle cx="90" cy="60" r="90" fill="#7f77dd" opacity="0.35" filter="url(#glow)"/>
+  <circle cx="410" cy="220" r="100" fill="#1d9e75" opacity="0.30" filter="url(#glow)"/>
+
+  <rect x="24" y="24" width="432" height="232" rx="14"
+        fill="#ffffff" fill-opacity="0.06"
+        stroke="#ffffff" stroke-opacity="0.15" stroke-width="1"/>
+
+  <text x="48" y="62" font-family="Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#f0eefc">Adith Anilkumar</text>
+  <text x="48" y="84" font-family="Segoe UI, sans-serif" font-size="13" fill="#c9c6e8">CSE Student &amp; Developer · Kerala, India</text>
+
+  <line x1="48" y1="102" x2="432" y2="102" stroke="#ffffff" stroke-opacity="0.12"/>
+
+  <text x="48" y="130" font-family="Segoe UI, sans-serif" font-size="13" fill="#d8d6ef">🤖  AI, Robotics &amp; Automation</text>
+  <text x="48" y="156" font-family="Segoe UI, sans-serif" font-size="13" fill="#d8d6ef">💻  Full stack apps end-to-end</text>
+  <text x="48" y="182" font-family="Segoe UI, sans-serif" font-size="13" fill="#d8d6ef">🧠  Machine learning &amp; LLMs</text>
+  <text x="48" y="208" font-family="Segoe UI, sans-serif" font-size="13" fill="#d8d6ef">🛠  Turning ideas into real products</text>
+
+  <text x="48" y="238" font-family="Segoe UI, sans-serif" font-size="12" font-style="italic" fill="#a9a6cf">"I debug more than I sleep 😴"</text>
+</svg>
