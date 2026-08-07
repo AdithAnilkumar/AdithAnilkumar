@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Robotics+Explorer+%F0%9F%9A%80;Always+Building+Cool+Stuff+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Enthusiast;Full+Stack+Developer;Python+Developer+;Robotics+Explorer;Always+Building+Cool+Stuff+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,12 +44,13 @@ class AdithAnilkumar:
 me = AdithAnilkumar()
 me.say_hi()
 ```
+- 🎓 **Computer Science Engineering Student**
+- 🤖 Passionate about **AI, Robotics & Automation**
+- 💻 Building **Full Stack** applications end-to-end
+- 🧠 Diving deep into **Machine Learning & LLMs**
+- 🛠 Love turning ideas into **real, working products**
+- ⚡ Always curious, always shipping
 
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AdithAnilkumar/AdithAnilkumar/main/assets/glass-about.svg" width="480" alt="About me glass card" />
-</div>
----
 
 ## 🛠️ Tech Stack
 
